@@ -66,7 +66,7 @@ const app = {
             name: 'Một triệu khả năng',
             singer: 'Christine Welch (克丽丝叮)',
             path: './assets/music/Một Triệu Khả Năng.mp3',
-            image: './assets/img/Một Triệu Khả năng.jpg',
+            image: './assets/img/Mot_Trieu_Kha_Nang.jpg',
         },
         {
             name: 'Tam bái hồng trần lương',
@@ -78,7 +78,7 @@ const app = {
             name: 'Tát nhật lãng rực rỡ',
             singer: 'Lưu Tân Khuyên (刘新圈)',
             path: './assets/music/Tát Nhật Lãng Rực Rỡ.m4a',
-            image: './assets/img/Tát Nhật Lãng Rực rỡ.jpg',
+            image: './assets/img/Tat_Nhat_Lang_ruc_ro.jpg',
         },
         {
             name: 'Tay trái chỉ trăng',
